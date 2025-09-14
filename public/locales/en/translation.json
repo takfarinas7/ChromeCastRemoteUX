@@ -1,0 +1,21 @@
+{
+  "play": "Play",
+  "pause": "Pause",
+  "help": "Help",
+  "translate": "Translate",
+  "volumeUp": "Up",
+  "volumeDown": "Down",
+  "mute": "Mute",
+  "return": "Return",
+  "reload": "Reload",
+  "connect": "Connect",
+  "home": "Home",
+  "opened": "Opened",
+  "closed": "Closed",
+  "powerOff": "Power Off",
+  "powerOn": "Power On",
+  "needHelp": "Need Help?",
+  "helpLink": "For more help, consult Takfarinas or Arda via Teams",
+  "previous": "Previous",  
+  "next": "Next" 
+}

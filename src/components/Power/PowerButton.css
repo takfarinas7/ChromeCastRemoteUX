@@ -1,0 +1,18 @@
+.powerbutton {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border: 2px solid #ccc;
+  }
+
+  
+  
+  .powerbutton img {
+    width: 20px;
+    height: 20px;
+  }
+  

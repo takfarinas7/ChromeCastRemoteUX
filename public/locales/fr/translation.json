@@ -1,0 +1,21 @@
+{
+  "play": "Lecture",
+  "pause": "Pause",
+  "help": "Aide",
+  "translate": "Traduire",
+  "volumeUp": "Monter",
+  "volumeDown": "Baisser",
+  "mute": "Muet",
+  "return": "Retour",
+  "reload": "Recharger",
+  "connect": "Connecter",
+  "home": "Maison",
+  "opened": "Ouvert",
+  "closed": "Fermé",
+  "powerOff": "Éteindre",
+  "powerOn": "Allumer",
+  "needHelp": "Besoin d'aide?",
+  "helpLink": "Pour plus d'aide, consultez Takfarinas ou Arda via Teams",
+  "previous": "Reculer",  
+  "next": "Avancer"  
+}

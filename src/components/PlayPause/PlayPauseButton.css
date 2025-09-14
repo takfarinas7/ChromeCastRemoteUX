@@ -1,0 +1,16 @@
+.playpausebutton {
+    width: 140px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+   
+  }
+  
+  .playpausebutton img {
+    width: 20px;
+    height: 20px;
+  }
+  
